@@ -416,7 +416,7 @@ for (i in 1:length(part_names))
   
   marray_mean_frame_biopsy_type <- rbind(marray_mean_frame_biopsy_type, temp_mean_frame)
   
-  
+}
   
   #################################################
   #### Talk about IL12B
